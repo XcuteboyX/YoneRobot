@@ -8,7 +8,7 @@
        "manager",
        "yone"
     ],   
- "repository": "https://github.com/noob-kittu/YoneRobot",
+ "repository": "https://github.com/XcuteboyX/YoneRobot",
  "addons": [
     {
        "options": {
@@ -59,7 +59,7 @@
     },
     "OWNER_USERNAME": {
        "description": "Your username without the @",
-       "value": "kumjojass"
+       "value": "ITS_CUTE_BOY"
     },
     "SUPPORT_CHAT": {
        "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
